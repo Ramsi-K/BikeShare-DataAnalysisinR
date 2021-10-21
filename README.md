@@ -1,7 +1,7 @@
 # Bike Share Case Study
 
 This was my first data analysis project R.
-It was a requierd project for the Google Data Analytics Specialization Course on Coursera
+It was my capstone project for the Google Data Analytics Specialization Course on Coursera
 
 ### Table of Contents
 
